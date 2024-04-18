@@ -1,8 +1,5 @@
 # Technical Project Description for tastetime APP
 
-> App Link
-[frontend in netlify](https://cheerful-pasca-6e4742.netlify.app/) & 
-
 ## Executive Summary
 ### Description of the Application
 > The weather application is a web-based task management tool designed to show users about location and weatherforcast information. Built using Reactfor frontend and [weatherapi](https://www.weatherapi.com/) for weather API. 
