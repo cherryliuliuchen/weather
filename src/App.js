@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './components/Homepage/HomePage';
-import FiveDaysPage from './pages/FiveDaysPage';  // 确保此路径正确
-import ThreeHoursPage from './pages/ThreeHoursPage';  // 确保此路径正确
+import FiveDaysPage from './pages/FiveDaysPage';  
+import ThreeHoursPage from './pages/ThreeHoursPage';
 import Navbar from './components/NavbarAndFooter/Navbar';
 import { Footer } from './components/NavbarAndFooter/Footer';
 import { TemperatureProvider } from './contexts/TemperatureContext';
